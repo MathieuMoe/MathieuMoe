@@ -19,7 +19,7 @@ After almost 20 years in web, first as a UI/UX designer and now as a full stack 
 **Back end & data**
 
 [![Skills](https://skillicons.dev/icons?i=cs,dotnet,php,symfony)](https://skillicons.dev)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" />
 
 **Front end & CMS**
 
@@ -47,4 +47,4 @@ Uncomment this section once the first project is published.
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathieu%20Moreau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-moreau-045b26114/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mathieu-moreau-045b26114/)
